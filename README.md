@@ -1,6 +1,5 @@
-Ilmeeni kun entinen koira kantoi aina karvatura koira  
-kantoi sänkyyn kesällä hiekkaa kun makoili ja pyöri tarhassa  
-jotka karisi sitten illalla sisälle kun otettiin koirat sisään.
+I made this during a quantum related game development course in university.
+https://quantumgames.aalto.fi/game-escape-from-quantum-computer/
 
 <!---
 - 👋 Hi, I’m @Hengad
