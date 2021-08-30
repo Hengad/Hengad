@@ -1,4 +1,4 @@
-I made this during a quantum related game development course in university.
+I made this during a quantum related game development course in university.  
 https://quantumgames.aalto.fi/game-escape-from-quantum-computer/
 
 <!---
